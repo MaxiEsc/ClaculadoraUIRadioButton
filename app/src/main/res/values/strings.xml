@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculadoraRadioButtonUI</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string name="ingresarNumero">Ingrese un Numero</string>
+    <string name="resultado">Resultado</string>
+    <string name="accion">Accion</string>
+    <string name="titulo">Calculadora</string>
+</resources>
